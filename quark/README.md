@@ -8,7 +8,7 @@ First public Neutron testnet.
 
 ## Requirements
 
-### Hardware
+### Recommended Hardware
 
 * 8 Cores
 * 64 GB RAM
